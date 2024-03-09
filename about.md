@@ -8,7 +8,7 @@ Halldór Úlfarsson (1977) an icelandic artist and designer, educated in Finland
 
 Brief CV with the most relevant highlights:
 
-2022 - Working for the Intelligent Instruments Lab. An ERC funded project led by Thor Magnusson on the experience of making music with AI endowed instruments.
+2022 - Working for the Intelligent Instruments Lab ([IIL](https://iil.is)). An ERC funded project led by Thor Magnusson on the experience of making music with AI endowed instruments.
 
 2021 - Has been developing the halldorophone supported by the Icelandic Technology Development Fund
 
