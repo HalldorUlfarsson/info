@@ -13,6 +13,8 @@ By Halldór Úlfarsson:
 
 <a href="/assets/papers/Halldorophone_NIME_2018.pdf">2018</a>
 
+[2018](assets/Halldorophone_NIME_2018.pdf)
+
 Co-Authored:
 
 By others on related projects:
