@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Published papers on halldorophones authored and co-authored by Halldór Úlfarsson"
+title: "Published papers on halldorophones"
 categories: publications
 ---
 By Halldór Úlfarsson:
