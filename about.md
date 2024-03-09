@@ -12,7 +12,7 @@ Brief CV with the most relevant highlights:
 
 2021 - Has been developing the halldorophone supported by the Icelandic Technology Development Fund
 
-Began a PhD in 2017 at the University of Sussex, Department of Music under the supervision of Thor Magnusson and Chris Kiefer (as of yet unfinished).
+2017 - Began a PhD at the University of Sussex, Department of Music under the supervision of Thor Magnusson and Chris Kiefer (as of yet unfinished).
 
 2012-17 Was employed at the Department of Design at the Iceland University of the Arts managing the department workshop, developed and taught curriculum for CAD and CAM and taught interdisciplinary courses on musical instrument hacking and design as a part-time lecturer in Music and adjunct of Product Design.
 
