@@ -11,6 +11,8 @@ By Halldór Úlfarsson:
 
 [2023 NIME paper on interface developments](/papers/2023_nime_ulfarsson_magnusson_ergodynamics_string_feedback.pdf)
 
+<a href="/assets/papers/Halldorophone_NIME_2018.pdf">2018</a>
+
 Co-Authored:
 
 By others on related projects:
