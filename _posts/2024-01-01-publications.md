@@ -5,7 +5,7 @@ categories: publications
 ---
 By Halldór Úlfarsson:
 
-[2018 NIME paper on the halldorophone](https://github.com/HalldorUlfarsson/info/tree/master/assets/papers/Halldorophone_NIME_2018)
+[2018 NIME paper on the halldorophone](/master/assets/papers/Halldorophone_NIME_2018)
 
 Co-Authored:
 
