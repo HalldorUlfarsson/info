@@ -11,6 +11,7 @@ By Halldór Úlfarsson:
 
 [2018](assets/Halldorophone_NIME_2018.pdf)
 
+[2018]({% link assets/Halldorophone_NIME_2018.pdf %})
 
 
 Co-Authored:
